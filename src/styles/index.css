@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.home-content {
+  min-height: 100vh;
+  max-width: 100%;
+  height: auto;
+}
+
+div.content {
+  width: 100%;
+  max-width: 100%;
+  min-height: 90vh;
+  height: auto;
+  background-image: url("https://wallpapercave.com/wp/ZqCwNUM.jpg");
+
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.game-container {
+  margin-top: 5vh;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 2vw;
+  width: 90%;
+  padding: 1vw;
+  height: auto;
+  border-radius: 0.5vw;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+div img.logo-img {
+  width: 2.5vw;
+}
+
+h3.title {
+  display: inline-block;
+  margin-left: 35vw;
+  color: gold;
+  text-transform: uppercase;
+}
+
+.radio {
+  margin-top: -1vh;
+}
+
+.selection-card {
+  justify-content: center;
+  text-align: left;
+}
+
+p.selection-label {
+  margin-top: 2vh;
+  margin-left: 0.4vw;
+  font-size: 1em;
+  text-align: left;
+}
+
+.submit-button {
+  margin-top: 2vh;
+}
