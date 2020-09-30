@@ -12,6 +12,18 @@ code {
     monospace;
 }
 
+.site-page-header {
+  background-color: #001529;
+}
+
+.ant-page-header-heading {
+  justify-content: center;
+}
+
+.ant-page-header-heading-title,
+.ant-page-header-heading-sub-title {
+  color: gold;
+}
 .home-content {
   min-height: 100vh;
   max-width: 100%;
@@ -47,6 +59,7 @@ div.game-container {
 
 div img.logo-img {
   width: 2.5vw;
+  display: inline-block;
 }
 
 h3.title {
@@ -74,4 +87,25 @@ p.selection-label {
 
 .submit-button {
   margin-top: 2vh;
+}
+
+@media screen and (max-width: 420px) {
+  div.game-container {
+    width: 100%;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 700px) {
+  div.game-container {
+    width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  div.game-container {
+    width: 100%;
+    grid-template-columns: repeat(4, 1fr);
+  }
 }
