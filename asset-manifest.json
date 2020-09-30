@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/memorama-pokemon/static/css/main.d7575b90.chunk.css",
-    "main.js": "/memorama-pokemon/static/js/main.d80d5a44.chunk.js",
-    "main.js.map": "/memorama-pokemon/static/js/main.d80d5a44.chunk.js.map",
+    "main.css": "/memorama-pokemon/static/css/main.f73ecc96.chunk.css",
+    "main.js": "/memorama-pokemon/static/js/main.3e72c32d.chunk.js",
+    "main.js.map": "/memorama-pokemon/static/js/main.3e72c32d.chunk.js.map",
     "runtime-main.js": "/memorama-pokemon/static/js/runtime-main.455e50e2.js",
     "runtime-main.js.map": "/memorama-pokemon/static/js/runtime-main.455e50e2.js.map",
     "static/css/2.220ccb42.chunk.css": "/memorama-pokemon/static/css/2.220ccb42.chunk.css",
-    "static/js/2.5b77732d.chunk.js": "/memorama-pokemon/static/js/2.5b77732d.chunk.js",
-    "static/js/2.5b77732d.chunk.js.map": "/memorama-pokemon/static/js/2.5b77732d.chunk.js.map",
+    "static/js/2.d2d88949.chunk.js": "/memorama-pokemon/static/js/2.d2d88949.chunk.js",
+    "static/js/2.d2d88949.chunk.js.map": "/memorama-pokemon/static/js/2.d2d88949.chunk.js.map",
     "index.html": "/memorama-pokemon/index.html",
-    "precache-manifest.964f0c24e0c8dbb1c6ac9e9077e8dc76.js": "/memorama-pokemon/precache-manifest.964f0c24e0c8dbb1c6ac9e9077e8dc76.js",
+    "precache-manifest.d5b572ffcf3ec8a34c4062e10759bdcf.js": "/memorama-pokemon/precache-manifest.d5b572ffcf3ec8a34c4062e10759bdcf.js",
     "service-worker.js": "/memorama-pokemon/service-worker.js",
     "static/css/2.220ccb42.chunk.css.map": "/memorama-pokemon/static/css/2.220ccb42.chunk.css.map",
-    "static/css/main.d7575b90.chunk.css.map": "/memorama-pokemon/static/css/main.d7575b90.chunk.css.map",
-    "static/js/2.5b77732d.chunk.js.LICENSE.txt": "/memorama-pokemon/static/js/2.5b77732d.chunk.js.LICENSE.txt",
-    "static/media/pokebola.svg": "/memorama-pokemon/static/media/pokebola.2b4798f5.svg"
+    "static/css/main.f73ecc96.chunk.css.map": "/memorama-pokemon/static/css/main.f73ecc96.chunk.css.map",
+    "static/js/2.d2d88949.chunk.js.LICENSE.txt": "/memorama-pokemon/static/js/2.d2d88949.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.455e50e2.js",
     "static/css/2.220ccb42.chunk.css",
-    "static/js/2.5b77732d.chunk.js",
-    "static/css/main.d7575b90.chunk.css",
-    "static/js/main.d80d5a44.chunk.js"
+    "static/js/2.d2d88949.chunk.js",
+    "static/css/main.f73ecc96.chunk.css",
+    "static/js/main.3e72c32d.chunk.js"
   ]
 }
