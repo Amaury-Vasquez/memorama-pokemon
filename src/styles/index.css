@@ -89,10 +89,10 @@ p.selection-label {
   margin-top: 2vh;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 1000px) {
   div.game-container {
     width: 100%;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
@@ -103,9 +103,9 @@ p.selection-label {
   }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 420px) {
   div.game-container {
     width: 100%;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
 }
