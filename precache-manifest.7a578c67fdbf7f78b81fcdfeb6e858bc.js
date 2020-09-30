@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e6e4594b28811f68df162b7c0525986",
+    "revision": "736a9df81943d2396cbed3be73455c13",
     "url": "/memorama-pokemon/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/memorama-pokemon/static/css/2.220ccb42.chunk.css"
   },
   {
-    "revision": "39a89369feb8a6b1d54e",
-    "url": "/memorama-pokemon/static/css/main.f73ecc96.chunk.css"
+    "revision": "9bc598283ab6f2773e9b",
+    "url": "/memorama-pokemon/static/css/main.5197c912.chunk.css"
   },
   {
     "revision": "2a17412dceb5cfe7e325",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/memorama-pokemon/static/js/2.d2d88949.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "39a89369feb8a6b1d54e",
+    "revision": "9bc598283ab6f2773e9b",
     "url": "/memorama-pokemon/static/js/main.3e72c32d.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memorama-pokemon/static/css/main.f73ecc96.chunk.css",
+    "main.css": "/memorama-pokemon/static/css/main.5197c912.chunk.css",
     "main.js": "/memorama-pokemon/static/js/main.3e72c32d.chunk.js",
     "main.js.map": "/memorama-pokemon/static/js/main.3e72c32d.chunk.js.map",
     "runtime-main.js": "/memorama-pokemon/static/js/runtime-main.455e50e2.js",
@@ -9,17 +9,17 @@
     "static/js/2.d2d88949.chunk.js": "/memorama-pokemon/static/js/2.d2d88949.chunk.js",
     "static/js/2.d2d88949.chunk.js.map": "/memorama-pokemon/static/js/2.d2d88949.chunk.js.map",
     "index.html": "/memorama-pokemon/index.html",
-    "precache-manifest.d5b572ffcf3ec8a34c4062e10759bdcf.js": "/memorama-pokemon/precache-manifest.d5b572ffcf3ec8a34c4062e10759bdcf.js",
+    "precache-manifest.7a578c67fdbf7f78b81fcdfeb6e858bc.js": "/memorama-pokemon/precache-manifest.7a578c67fdbf7f78b81fcdfeb6e858bc.js",
     "service-worker.js": "/memorama-pokemon/service-worker.js",
     "static/css/2.220ccb42.chunk.css.map": "/memorama-pokemon/static/css/2.220ccb42.chunk.css.map",
-    "static/css/main.f73ecc96.chunk.css.map": "/memorama-pokemon/static/css/main.f73ecc96.chunk.css.map",
+    "static/css/main.5197c912.chunk.css.map": "/memorama-pokemon/static/css/main.5197c912.chunk.css.map",
     "static/js/2.d2d88949.chunk.js.LICENSE.txt": "/memorama-pokemon/static/js/2.d2d88949.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.455e50e2.js",
     "static/css/2.220ccb42.chunk.css",
     "static/js/2.d2d88949.chunk.js",
-    "static/css/main.f73ecc96.chunk.css",
+    "static/css/main.5197c912.chunk.css",
     "static/js/main.3e72c32d.chunk.js"
   ]
 }
