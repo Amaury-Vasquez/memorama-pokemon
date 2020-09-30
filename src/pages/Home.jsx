@@ -9,7 +9,7 @@ function Home() {
   const [name, setName] = useState("");
   const [radioValue, setRadioValue] = useState("");
   const [cardNumber, setNumber] = useState(10);
-  return startGame ? (
+  return startGame === true ? (
     <Game
       name={name}
       region={radioValue}
