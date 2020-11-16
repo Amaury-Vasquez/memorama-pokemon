@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter>
       <AntLayout>
         <Switch>
-          <Route exact path="/memorama-pokemon" component={Home} />
+          <Route exact path="/" component={Home} />
         </Switch>
       </AntLayout>
     </BrowserRouter>
