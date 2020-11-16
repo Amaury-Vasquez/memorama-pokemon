@@ -14,7 +14,7 @@
     "react-scripts": "^4.0.0",
     "sweetalert2": "^10.3.5"
   },
-  "homepage": "memorama-pokemon.netlify.app",
+  "homepage": "https://memorama-pokemon.netlify.app/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
